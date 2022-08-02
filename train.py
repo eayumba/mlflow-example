@@ -63,4 +63,7 @@ if __name__ == "__main__":
         mlflow.log_metric("r2", r2)
         mlflow.log_metric("mae", mae)
 
+        # If, for example, you wrote some training output besides the model into a file, use log_artifact
+        # mlflow.log_artifact("artifact", artifact_file)
+
         mlflow.sklearn.log_model(lr, "model")

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/manuelo/Documents/PolyDeltaAI%20Internship/mlflow-example/mlruns/0/9812bad5a5164d67a0ba01af00f48abd/artifacts
+end_time: 1659449479719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9812bad5a5164d67a0ba01af00f48abd
+run_uuid: 9812bad5a5164d67a0ba01af00f48abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1659449477451
+status: 3
+tags: []
+user_id: manuelo
